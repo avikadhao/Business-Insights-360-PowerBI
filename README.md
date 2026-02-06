@@ -90,5 +90,12 @@ This project represents my ability to:
 - Model and analyze large datasets
 - Build interactive dashboards
 - Communicate insights clearly
+  
+---
+
+## 📬 Connect with Me
+- 📧 Email: avinashkadhao@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/avinash-kadhao/
+
 
 Feedback and suggestions are always welcome 😊
