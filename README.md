@@ -96,6 +96,6 @@ This project represents my ability to:
 ## 📬 Connect with Me
 - 📧 Email: avinashkadhao@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/avinash-kadhao/
-
+- 🌐 **Portfolio:** https://codebasics.io/portfolio/AVINASH-ANIL-KADHAO
 
 Feedback and suggestions are always welcome 😊
